@@ -1,10 +1,4 @@
-package td;
-
-import org.junit.Assert;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package td.src.td;
 
 public class CardinaliteTest {
     @org.junit.Test

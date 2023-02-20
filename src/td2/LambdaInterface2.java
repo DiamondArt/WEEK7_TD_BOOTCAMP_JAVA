@@ -1,4 +1,4 @@
-package td2;
+package td.src.td2;
 
 /**
  * Exercice 2: Ecrire une lambda expression qui prend une chaîne en entrée et renvoie sa longueur.
